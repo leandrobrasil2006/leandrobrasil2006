@@ -1,4 +1,4 @@
-# Hello! I'm  leandro
+# Hello! I'm  Leandro Brasil
 
 ## 🔥 GitHub Stats
 ![leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrobrasil2006&show_icons=true&theme=radical)
@@ -11,8 +11,8 @@
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 
 ## 🌐 Connect with Me
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/)
-[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:@aluno.ifce.edu.br)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/_leandro.sx)
+[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:leandro.brasil09@aluno.ifce.edu.br)
 
 ---
 
